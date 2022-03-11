@@ -1,5 +1,5 @@
 # PyPrIN
-Python Program Index
+Python Program Index (npx for python)
 
 Upload <strike>packages</strike> programs as easily and fast as possible.
 
