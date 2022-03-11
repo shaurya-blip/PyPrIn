@@ -1,4 +1,6 @@
-# PyProgramRepository
+# PyPrIN
+Python Program Index
+
 Upload <strike>packages</strike> programs as easily and fast as possible.
 
 Being built by <b>SblipDev</b>
