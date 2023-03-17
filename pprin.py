@@ -8,7 +8,7 @@
 class PPrinError(Exception):
     """Base class for exceptions in this module."""
     pass
-
+# bruh
 
 class ForeignLanguageError(PPrinError):
     pass
